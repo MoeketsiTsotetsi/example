@@ -1,0 +1,91 @@
+
+  .hero{
+    color: rgb(83, 73, 73);
+    text-align: center;
+    padding: 2.5em 0;
+    background: url('./img/survey.jpg');
+    background-repeat: repeat;
+  }
+
+  input[type="text"]{
+      border-radius: .4rem;
+      margin-bottom: 3rem;
+      width: 50%;
+      border-width: .5rem;
+  }
+
+  .professionalism{
+      margin-right: 8rem;
+  }
+  .comp-det{
+      margin-top: 1rem;
+      text-align: center;
+      background-color: rgb(101, 8, 250);
+  }
+  .cust-name{
+      margin-right: 4.7em;
+  }
+  .title{
+      margin-right: 5em;
+  }
+  .first-heading{
+      margin-left: 20rem;
+  }
+
+  .taPriorities{
+      resize: none;
+  }
+
+  p{
+      margin-top: 2rem;
+  }
+
+  .bussiness{
+      margin-right: 2rem;
+  }
+  input[type="radio"]{
+      display: inline;
+      border-style: dashed;
+  }
+  .first{
+      margin-left: 45rem;
+  }
+
+  
+
+  #rel{
+      margin-right: 9rem;
+  }
+
+  #proff{
+      margin-right: 8.8rem;
+  }
+
+  .vdiss{
+      margin-left: 14rem;
+      margin-right: 30rem;
+  }
+
+  #nego{
+      margin-right: 8.8rem;
+  }
+  .negotiation{
+      margin-right: 11rem;
+  }
+
+  .reliability{
+      margin-right: 12rem;
+  }
+  .commitment{
+      margin-right: 10rem;
+  }
+  #commit{
+      margin-right: 8.9rem;
+  }
+
+  .service{
+      margin-right: 13.5rem;
+  }
+  #serv{
+      margin-right: 9rem;
+  }
