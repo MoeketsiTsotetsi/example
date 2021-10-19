@@ -1,5 +1,10 @@
 
-  .hero{
+ body{
+     padding: 0;
+     margin: 0;
+ }
+ 
+ .hero{
     color: rgb(83, 73, 73);
     text-align: center;
     padding: 2.5em 0;
@@ -30,6 +35,17 @@
   }
   .first-heading{
       margin-left: 20rem;
+  }
+
+  .btnSubmit{
+      background-color: orange;
+      border-radius: .5rem;
+      width: 20%;
+      height: 5vh;
+  }
+
+  .btnSubmit:hover{
+    background-color: rgb(211, 138, 3);
   }
 
   .taPriorities{
